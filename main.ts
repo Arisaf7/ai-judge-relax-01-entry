@@ -10,6 +10,7 @@ const TEXT = [
   'Breathe in slowly, the way the evening does — then let it out, and let your shoulders drop with it.',
   'The tea will still be warm in ten minutes. The evening is not going anywhere.',
   'Somewhere a clock ticks, unhurried, keeping time the way a river does — not counting, just going.',
+  'A breeze moves through the open window, carrying the smell of rain on warm stone, and the room exhales with it.',
   'You can stay here a while. Nothing needs you yet.',
 ].join('\n');
 
